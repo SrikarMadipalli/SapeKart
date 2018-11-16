@@ -1,5 +1,5 @@
 {
-  "name": "static-web-boilerplate",
+  "name": "sapekart",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -15,7 +15,7 @@
     "JavaScript",
     "Boilerplate"
   ],
-  "author": "Medha Mehta",
+  "author": "Madipalli Srikar",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",

@@ -1,0 +1,48 @@
+{
+  "cart": [
+    {
+      "id": "Green Colour Shirt",
+      "Imgurl": "./public/assets/img/10.jpg",
+      "Size": "L",
+      "Qty": "2",
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "250",
+      "added": "yes"
+    },
+    {
+      "id": "Blue Coloure Shirt",
+      "Imgurl": "./public/assets/img/6.jpg",
+      "Size": "XS",
+      "Qty": 2,
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "250",
+      "added": "yes"
+    },
+    {
+      "id": "Green Coloure Shirt",
+      "Imgurl": "./public/assets/img/13.jpg",
+      "Size": "S",
+      "Qty": "3",
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "250",
+      "added": "yes"
+    }
+  ],
+  "promo": [
+    {
+      "promo_code": "ABCD",
+      "Price": "250"
+    },
+    {
+      "promo_code": "ABCDE",
+      "Price": "250"
+    },
+    {
+      "promo_code": "ABCDEF",
+      "Price": "250"
+    }
+  ]
+}
